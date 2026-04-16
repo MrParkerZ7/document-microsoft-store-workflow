@@ -1,0 +1,11 @@
+# Disposable / throwaway scripts (per master project convention)
+🚫*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
